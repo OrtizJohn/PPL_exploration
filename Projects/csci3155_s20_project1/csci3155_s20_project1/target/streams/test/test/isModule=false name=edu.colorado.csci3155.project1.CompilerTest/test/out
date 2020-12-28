@@ -1,0 +1,9 @@
+[info] CompilerTest:
+[info] - simple expression 1
+[info] - simple expression 2
+[info] - simple expression 3
+[info] - simple expression 4
+[info] - LetBinding + Ident Test 1
+[info] - LetBinding + Ident Test 2
+[info] - LetBinding + Ident Test 3
+[info] - LetBinding + Ident Test 4

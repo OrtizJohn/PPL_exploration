@@ -1,0 +1,21 @@
+List(PushI(2.5), PushI(3.5), AddI, ExpI, LogI, LoadI("result"))
+
+stack: 2.5
+env:
+
+stack:
+	3.5
+	2.5
+env:
+
+stack: 6.0
+env:
+
+stack: e^6.0
+env:
+
+stack: 6.0
+env:
+
+stack:
+env: {'res' -> 6.0}

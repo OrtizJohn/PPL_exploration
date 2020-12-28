@@ -1,0 +1,62 @@
+Democracy
+Alcohol & Tobacoo
+Family
+Economy
+Farming
+Religion
+French Revolution
+
+
+Massachusets
+Virginia
+South Carolina
+New York
+
+Federalist Ticket
+John Adams - Massachusetts
+Charles Cotesworth Pinckney - South Carolina
+
+Democratic-Republican Ticket
+Thomas Jefferson - Virgina
+Aaron Burr - New York
+
+
+The Voters
+As observed in the data set voters1800.csv
+
+0 CitizenID - an integer unique number (identifies their row in the table).
+1 Age - an integer representing years since birth.
+2 State - a string indentifying the location.
+3 Interest1 - a string identifying the voter's most important campaign issue.
+4 Interest2 - a string identifying the voter's second most important campaign issue.
+5 Interest3 - a string identifying the voter's third most important campaign issue.
+
+Massachusets -Farming(.28) Economy(.14) French Revolution(.24)  Alocohol & tobacco(.23) <br>
+Virginia     -Farming(.28) Economy(.23) French Revolution(.27)  Alocohol & tobacco(.16) <br>
+New York     -Farming(.27) Economy(.22) French Revolution(.18)  Alocohol & tobacco(.24) <br>
+SC           -Farming(.20) Economy(.26) French Revolution(.27)  Alocohol & tobacco(.21) <br>
+
+
+The results of the simulated election 1:
+----------------------------
+Overall Result(All 4 states)
+Electoral Votes For Fedaralist: 16.0
+Electoral Votes For Democratic-Republican: 41.0
+
+The results of the simulated election 2:
+----------------------------
+Overall Result(All 4 states)
+Electoral Votes For Fedaralist: 14.0
+Electoral Votes For Democratic-Republican: 43.0
+
+The results of the simulated election 3:
+----------------------------
+Overall Result(All 4 states)
+Electoral Votes For Fedaralist: 28.0
+Electoral Votes For Democratic-Republican: 29.0
+
+The results of the simulated election 4:
+----------------------------
+Overall Result(All 4 states)
+Electoral Votes For Fedaralist: 15.0
+Electoral Votes For Democratic-Republican: 42.0
